@@ -1,9 +1,9 @@
 # Site settings
 title: Gavin Angry Birds Blog
-SEOTitle: 博客 |  Gavin Angry Birds Blog
+SEOTitle: 博客 | Gavin Angry Birds Blog
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
+description: "I am Angry Birds for Coder."
 keyword: "linux, OpenWrt, kernel, ARM, Mips, Uboot, Switch"
 url: "http://gavin-Angry-Birds.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
