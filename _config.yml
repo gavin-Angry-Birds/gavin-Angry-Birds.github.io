@@ -1,7 +1,8 @@
 # Site settings
 title: Gavin Angry Birds Blog
 SEOTitle: 博客 | Gavin Angry Birds Blog
-header-img: img/advans-linux-embassy.jpg
+#header-img: img/advans-linux-embassy.jpg
+header-img: img/Linux_5.13.5_boot_message_screenshot.png
 email: 332163573@qq.com
 description: "I am Angry Birds for Coder."
 keyword: "linux, OpenWrt, kernel, ARM, Mips, Uboot, Switch"
