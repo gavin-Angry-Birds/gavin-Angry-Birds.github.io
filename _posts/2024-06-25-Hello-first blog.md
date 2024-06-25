@@ -4,7 +4,7 @@ title:      Hello First Blog
 subtitle:    "\"Hello World, Hello Blog\""
 date:       2024-06-25
 author:     Gavin
-header-img: img/advans-linux-embassy.jpg
+header-img: img/post-bg-os-metro.jpg.jpg
 catalog: true
 tags:
     - blog
