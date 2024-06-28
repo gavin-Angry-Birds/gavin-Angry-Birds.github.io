@@ -19,7 +19,7 @@ tags:
 
 
 
-![](https://github.com/gavin-Angry-Birds/gavin-Angry-Birds.github.io/blob/master/img/OhiVe.png?raw=true)
+![](img/OhiVe.png)
 
 <p id = "build"></p>
 
