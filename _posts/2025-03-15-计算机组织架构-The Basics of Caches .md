@@ -1,13 +1,14 @@
 ---
 layout:     post
-title:      Computer Organization and Design Cache
+title:      Computer Organization and Design: Cache
 subtitle:    "\" 计算机组织架构 \""
 date:       2025-03-15
 author:     Gavin
 header-img: img/64ef35890cb90_computer_organization_and_architecture_01.png
 catalog: true
 tags:
-    - blog cache 
+    - Computer Organization and Design
+    - cache 
 ---
 
 
