@@ -18,7 +18,7 @@ tags:
 > Larger blocks exploit spatial locality to lower miss rates. As Figure 5.11 shows, increasing the block size usually decreases the miss rate. Th e miss rate may go up eventually if the block size becomes a signifi cant fraction of the cache size, because the number of blocks that can be held in the cache will become small, and there will be a great deal of competition for those blocks. As a result, a block will be bumped out of the cache before many of its words are accessed. Stated alternatively, spatial locality among the words in a block decreases with a very large block; consequently, the benefi ts in the miss rate become smaller. 
 
 
-![](/image/cache1.png)
+![](/img/cache1.png)
 
 
 
