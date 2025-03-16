@@ -15,15 +15,14 @@ tags:
 
 # The Basics of Caches 
 
-```shell
-Larger blocks exploit spatial locality to lower miss rates. As Figure 5.11 shows, increasing the block size usually decreases the miss rate. Th e miss rate may go up eventually if the block size becomes a signifi cant fraction of the cache size, because the number of blocks that can be held in the cache will become small, and there will be a great deal of competition for those blocks. As a result, a block will be bumped out of the cache before many of its words are accessed. Stated alternatively, spatial locality among the words in a block decreases with a very large block; consequently, the benefi ts in the miss rate become smaller. 
-```
+> Larger blocks exploit spatial locality to lower miss rates. As Figure 5.11 shows, increasing the block size usually decreases the miss rate. Th e miss rate may go up eventually if the block size becomes a signifi cant fraction of the cache size, because the number of blocks that can be held in the cache will become small, and there will be a great deal of competition for those blocks. As a result, a block will be bumped out of the cache before many of its words are accessed. Stated alternatively, spatial locality among the words in a block decreases with a very large block; consequently, the benefi ts in the miss rate become smaller. 
+
 
 ![](/image/cache1.png)
 
 
 
-## why “Spatial locality among the words in a block decreases with a very large block”
+## Spatial locality among the words in a block decreases with a very large block 
 
 ### 1. **空间局部性（Spatial Locality）的基本概念**
 空间局部性指的是**程序访问的内存地址通常是彼此接近的**，例如数组遍历、顺序执行的指令流等。为了利用空间局部性，缓存（Cache）通常使用较大的块（Block），这样当一个地址被访问时，整个块都会被加载到缓存中，从而在后续访问相邻地址时命中缓存，提高效率。
