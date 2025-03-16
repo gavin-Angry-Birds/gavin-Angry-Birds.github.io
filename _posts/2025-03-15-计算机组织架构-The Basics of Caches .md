@@ -8,7 +8,7 @@ author:     Gavin
 header-img: img/64ef35890cb90_computer_organization_and_architecture_01.png
 catalog: true
 tags:
-    - blogca
+    - blog
 ---
 
 
