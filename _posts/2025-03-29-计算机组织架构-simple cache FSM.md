@@ -101,8 +101,7 @@ Hit/Miss	输出命中/缺失状态
 - REFILL → IDLE（完成）
 
 ## 7. 优化变种
-写直达（Write-through）：无需WRITE_BACK状态
-
-多级Cache：需协调L1/L2 Cache状态机
+- 写直达（Write-through）：无需WRITE_BACK状态
+- 多级Cache：需协调L1/L2 Cache状态机
 
 总结：通过状态机明确分离控制逻辑，确保Cache操作的可预测性和高效性。
