@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Simple Cache Control FSM
+mermaid:    true
 subtitle:   "\"计算机组织架构 \""
 date:       2025-03-29
 author:     Gavin
